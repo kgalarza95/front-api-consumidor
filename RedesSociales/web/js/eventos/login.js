@@ -6,11 +6,12 @@
 
 
 $(document).ready(function () {
-
     $('#btn_acceder').click(function () {
+        debugger;
         console.log('press...');
     });
-}//ready
+
+});
 
 
 
