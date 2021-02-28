@@ -42,14 +42,14 @@
 
     <div class="container">
 
-        <!-- Outer Row -->
+        
         <div class="row justify-content-center">
 
             <div class="col-xl-10 col-lg-12 col-md-9">
 
                 <div class="card o-hidden border-0 shadow-lg my-5">
                     <div class="card-body p-0">
-                        <!-- Nested Row within Card Body -->
+                        
                         <div class="row">
                             <!--IMAGNE INSTITUCIONAL-->
                             <div class="col-lg-6 d-none d-lg-block bg-login-image"></div>
@@ -76,10 +76,6 @@
                                                 <label class="custom-control-label" for="customCheck">Recordar</label>
                                             </div>
                                         </div-->
-
-                                        <a href="index.jsp" class="btn btn-primary btn-user btn-block">
-                                            Login
-                                        </a>
                                         <button class="btn btn-primary btn-user btn-block"
                                             id="btn_acceder">Login</button>
                                         <hr>
@@ -125,6 +121,7 @@
 
     <!-- Custom scripts for all pages-->
     <script src="js/sb-admin-2.min.js"></script>
+    <script src="js/eventos/login.js"></script>0
 
 </body>
 
